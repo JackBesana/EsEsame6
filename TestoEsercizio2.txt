@@ -1,0 +1,4 @@
+Simulazione pit stop
+- Deve passare un arco di tempo tra ingresso e uscita pit stop
+- Deve passare un arco di tempo per cambiare gomme, fare benzina e regolare l'ala
+- Due macchine non possono fare pit stop contemporaneamente
